@@ -1,7 +1,7 @@
 <?php
 
   $encodingAesKey = "";
-  $token = "";
+  $token = "weixin";
   $appId = "";
   
   $debugMode = TRUE;
